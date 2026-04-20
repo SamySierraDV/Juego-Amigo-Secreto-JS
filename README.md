@@ -1,7 +1,7 @@
-Juego de Amigos Secretos 🎡
+**Juego de Amigos Secretos 🎡**
+
 ¡Bienvenido al Juego de Amigos Secretos! Una aplicación web interactiva y divertida para sortear amigos secretos mediante una ruleta animada. Ideal para fiestas, eventos o juegos grupales. Agrega nombres, gira la ruleta y descubre el secreto al azar. ¡Mínimo 2 amigos requeridos!
 
-[
 
 ✨ Características Principales
 Agregar amigos: Ingresa nombres fácilmente (sin duplicados ni vacíos).
@@ -17,14 +17,15 @@ Responsive: Funciona en desktop y mobile.
 Sin dependencias: Puro vanilla JS, HTML y CSS.
 
 🛠️ Tecnologías Utilizadas
-Frontend	Herramientas
-HTML5	Estructura semántica
-CSS3	Estilos responsive y animaciones
-JavaScript (ES6+)	Lógica de ruleta, Canvas 2D, eventos DOM
+| Frontend          | Herramientas                             |
+| ----------------- | ---------------------------------------- |
+| HTML5             | Estructura semántica                     |
+| CSS3              | Estilos responsive y animaciones         |
+| JavaScript (ES6+) | Lógica de ruleta, Canvas 2D, eventos DOM |
+
 🚀 Cómo Usar
 Clona o descarga el repositorio:
 
-text
 [git clone https://github.com/SamySierraDV/Juego-Amigo-Secreto-JS.git)
 cd Juego-Amigos-Secreto-JS
 Abre index.html en cualquier navegador (no necesita servidor).
